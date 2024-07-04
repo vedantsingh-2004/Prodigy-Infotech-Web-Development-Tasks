@@ -24,3 +24,15 @@
 
 ![01](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%202.png)
 
+<br>
+
+## CONTRIBUTING
+
+If you'd like to contribute to this project, you can:
+
+- Fork the repository
+- Create a new branch (`git checkout -b feature`)
+- Make your changes
+- Commit your changes (`git commit -am 'Add new feature'`)
+- Push to the branch (`git push origin feature`)
+- Create a pull request
