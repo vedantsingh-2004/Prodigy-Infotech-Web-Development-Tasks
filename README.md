@@ -14,8 +14,7 @@ The Prodigy Infotech Online Internship recently concluded, spanning the entirety
 
 ## OFFER LETTER :-
 
-![OFFER LETTER](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/1003df5a-3dd6-4a77-a8b9-3c32c5b71644)
-
+![logo](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/Offer%20Letter.png)
 <br>
 
 ## There are a total of 5 TASKS 
@@ -27,26 +26,25 @@ The Prodigy Infotech Online Internship recently concluded, spanning the entirety
 
 #### Live Demo: https://restaurant-website-vedant.netlify.app/
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/a286ee32-6540-4cb6-a41b-b2199e22df6b)
-
+![01](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%201.png)
 
 ## TASK 2: 
 ### STOPWATCH WEB APPLICATION
 
 #### Live Demo: https://stopwatch-vedant.netlify.app/
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/25b206ad-0660-4889-95cd-dcc906376f17)
+![02](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%202.png)
 
 ## TASK 3: 
 ### TIC-TAC-TOC WEB APPLICATION
 
 #### Live Demo: https://tic-tac-toe-vedant-singh.netlify.app/
 
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7ea5371c-9798-4e21-9ce0-8aee482ea448)
+![03](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%203.png)
 
 ## TASK 5: 
 ### WEATHER APPLICATION
 
 #### Live Demo: https://weather-application-vedant.netlify.app/
 
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/0f8351a5-9067-45f1-929d-eb753358ac99)
+![04](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%204.png)
