@@ -22,4 +22,5 @@
 
 ### SCREENSHOT OF WEBSITE: 
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/f6b9ebce-de1f-4687-bf29-28928b728a1d)
+![01](https://github.com/vedantsingh-2004/Prodigy-Infotech-Web-Development-Tasks/blob/main/Images/TASK%202.png)
+
