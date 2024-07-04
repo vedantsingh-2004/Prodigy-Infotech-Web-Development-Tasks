@@ -40,7 +40,7 @@ The Prodigy Infotech Online Internship recently concluded, spanning the entirety
 ## TASK 3: 
 ### TIC-TAC-TOC WEB APPLICATION
 
-#### Live Demo: https://tic-tac-toe-vedant.netlify.app/
+#### Live Demo: https://tic-tac-toe-vedant-singh.netlify.app/
 
 ![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7ea5371c-9798-4e21-9ce0-8aee482ea448)
 
